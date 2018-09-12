@@ -86,3 +86,5 @@ C:\Users\Manman Bricks\source\repos\PizzaSys\PizzaSys\obj\Debug\PizzaSys.csproj.
 C:\Users\Manman Bricks\source\repos\PizzaSys\PizzaSys\obj\Debug\PizzaSys.csproj.CopyComplete
 C:\Users\Manman Bricks\source\repos\PizzaSys\PizzaSys\obj\Debug\PizzaSys.dll
 C:\Users\Manman Bricks\source\repos\PizzaSys\PizzaSys\obj\Debug\PizzaSys.pdb
+D:\GitRepos\CSCI-5200-Project1\PizzaSys\obj\Debug\PizzaSys.dll
+D:\GitRepos\CSCI-5200-Project1\PizzaSys\obj\Debug\PizzaSys.pdb
