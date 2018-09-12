@@ -16,7 +16,7 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="/Images/pizza1.jpg" alt="Pepperoni Pizza">
+      <img src="/Images/pizza1.jpg" alt="Pepperoni Pizza" style="width:100%">
          <div class="carousel-caption">
         <h3>Hot and Delicious</h3>
         <p>Have you had any today? Order Now</p>
@@ -24,7 +24,7 @@
     </div>
 
     <div class="item">
-      <img src="/Images/pizza2.jpg" alt="Chicken Pizza">
+      <img src="/Images/pizza2.jpg" alt="Chicken Pizza" style="width:100%">
          <div class="carousel-caption">
         <h3>Taste Great!!</h3>
         <p>Comes with Fries and a bottle to Coke</p>
